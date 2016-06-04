@@ -2,7 +2,7 @@
   "name": "dictionary-bs",
   "version": "1.0.1",
   "description": "Bosnian spelling dictionary in UTF-8",
-  "license": "GPL-3.0",
+  "license": "LGPL-3.0",
   "keywords": [
     "spelling",
     "myspell",
@@ -19,9 +19,7 @@
     "name": "Nedim Cholich",
     "email": "nedim@frontyard.co"
   },
-  "main": "index.js",
   "files": [
-    "index.js",
     "index.aff",
     "index.dic"
   ],
