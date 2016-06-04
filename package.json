@@ -1,0 +1,39 @@
+{
+  "name": "dictionary-bs",
+  "version": "1.0.0",
+  "description": "Bosnian spelling dictionary in UTF-8",
+  "license": "GPL-3.0",
+  "keywords": [
+    "spelling",
+    "myspell",
+    "hunspell",
+    "dictionary",
+    "croatian",
+    "croatia"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontyard/dictionary-bs.git"
+  },
+  "author": {
+    "name": "Nedim Cholich",
+    "email": "nedim@frontyard.co"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "index.aff",
+    "index.dic"
+  ],
+  "bugs": {
+    "url": "https://github.com/frontyard/dictionary-bs/issues"
+  },
+  "homepage": "https://github.com/frontyard/dictionary-bs#readme",
+  "maintainers": [
+    {
+      "name": "frontyard",
+      "email": "nedim@frontyard.co"
+    }
+  ],
+  "directories": {}
+}
