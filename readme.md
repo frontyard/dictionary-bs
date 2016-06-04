@@ -15,9 +15,9 @@ npm install dictionary-bs
 ## Usage
 
 ```js
-var ba = require('dictionary-bs');
+var bs = require('dictionary-bs');
 
-ba(function (err, result) {
+bs(function (err, result) {
     if (err) throw err;
 
     console.log(result);
@@ -45,12 +45,4 @@ fs.readFileSync(path.join(base, 'index.aff'), 'utf-8');
 
 ## License
 
-Dictionary and affix file: [GPL-3.0][license]. Rest: MIT ©
-
-[hunspell]: http://hunspell.sourceforge.net
-
-[nodehun]: https://github.com/nathanjsweet/nodehun
-
-[npm]: https://docs.npmjs.com/cli/install
-
-[home]: http://frontyard.co
+Dictionary and affix file: GPL-3.0, rest MIT ©
